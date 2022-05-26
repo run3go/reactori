@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//run3go/github.io/reactori/static/css/main.e6c13ad2.css",
+    "main.js": "/https//run3go/github.io/reactori/static/js/main.f4c5e1e8.js",
+    "static/js/787.49b2c47c.chunk.js": "/https//run3go/github.io/reactori/static/js/787.49b2c47c.chunk.js",
+    "index.html": "/https//run3go/github.io/reactori/index.html",
+    "main.e6c13ad2.css.map": "/https//run3go/github.io/reactori/static/css/main.e6c13ad2.css.map",
+    "main.f4c5e1e8.js.map": "/https//run3go/github.io/reactori/static/js/main.f4c5e1e8.js.map",
+    "787.49b2c47c.chunk.js.map": "/https//run3go/github.io/reactori/static/js/787.49b2c47c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f4c5e1e8.js"
+  ]
+}
